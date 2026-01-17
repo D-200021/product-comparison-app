@@ -57,7 +57,7 @@ An interactive, responsive web application that allows users to compare multiple
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **React** (Functional Components & Hooks)
 * **TypeScript**
@@ -99,7 +99,6 @@ http://localhost:3000
 ## Live Demo (Optional)
 
 * **OnRender**:
-  *Add deployed link here*
 
 Example:
 

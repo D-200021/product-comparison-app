@@ -71,7 +71,7 @@ An interactive, responsive web application that allows users to compare multiple
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-comparison-app.git
+https://github.com/D-200021/product-comparison-app.git
 cd product-comparison-app
 ```
 
@@ -104,7 +104,7 @@ http://localhost:3000
 Example:
 
 ```
-https://your-app-name.netlify.app
+https://product-comparison-app-p3xp.onrender.com/
 ```
 
 ---
